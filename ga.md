@@ -1,0 +1,4 @@
+---
+layout: ga
+permalink: /ga/
+---
